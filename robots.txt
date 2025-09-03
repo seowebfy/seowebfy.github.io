@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+Allow: /sitemap.xml
+
+Sitemap: https://seowebfy.github.io/sitemap.xml
